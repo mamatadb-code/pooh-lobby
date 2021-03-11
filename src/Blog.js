@@ -4,6 +4,7 @@ import { Form, Button,Card } from 'react-bootstrap';
 import Footer from './footer'
 import './App.css';
 import './Blog.css';
+import Res from './res'
 
 
 
@@ -143,6 +144,7 @@ class Blog extends React.Component{
 </div>
 
             <Footer />
+            <Res />
             </div>
         )
     }
