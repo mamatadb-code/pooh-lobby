@@ -13,10 +13,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 ;
 import Footer from './footer'
 
-
-
-
-
 class ContactUs extends React.Component{
     
     render(){
