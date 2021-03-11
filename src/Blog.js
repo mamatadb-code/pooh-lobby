@@ -144,7 +144,7 @@ class Blog extends React.Component{
 </div>
 
             <Footer />
-            <Res />
+            {/* can add other component */}
             </div>
         )
     }
