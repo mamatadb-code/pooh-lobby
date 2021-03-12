@@ -74,6 +74,7 @@ class ContactUs extends React.Component{
                   </div>
                   <Button className="btn send-button"> 
                   SUBMIT
+                  {/* button need to updaate  */}
                   {/* <FontAwesomeIcon icon={faShare} /> */}
                   </Button>
              
