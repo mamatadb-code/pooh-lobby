@@ -72,10 +72,9 @@ class ContactUs extends React.Component{
                          onChange={this.handleInputChange} />
                   
                   </div>
-                  <Button className="btn send-button contact-submit"> 
+                  <Button className="btn send-button"> 
                   SUBMIT
-                  <FontAwesomeIcon icon={faShare} />
-                  
+                  {/* <FontAwesomeIcon icon={faShare} /> */}
                   </Button>
              
             </Form>
